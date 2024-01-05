@@ -1,17 +1,3 @@
-# 9-Naive-Baker
-
-## IT314 - Group 9
-
-#### Mentor: Prof. Saurabh Tiwari
-
-#### Project: Naive-Baker
-
-This repo contains Naive-Baker frontend code and Assignments. There are total of 2 repositories.
-
--   Frontend Repository (This repo): [https://github.com/Jitu-U/9-Naive-Baker/](https://github.com/Jitu-U/9-Naive-Baker)
--   Backend Repository: [https://github.com/DeepGajera91/9-Naive-Baker-Backend/](https://github.com/DeepGajera91/9-Naive-Baker-Backend)
-
-
 ## Development
 - First Fork this repository and then Clone the Forked repository.
 ```bash
