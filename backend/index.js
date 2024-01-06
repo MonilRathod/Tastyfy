@@ -28,7 +28,7 @@ app.get("/",(req,res)=>{
     const response = {
         ok:true,
         data:{
-            msg:"Tastfy Backend here!😀"   
+            msg:"teastfy Backend here!😀"   
         },
         err:{    
         }
@@ -42,8 +42,5 @@ app.use("/query",queryRouter);
 
 const port = process.env.PORT  || 5000;
 app.listen(port,() => {
-    console.log(`server is running on port : ${port}`);
+    console.log(server is running on port : ${port});
 });
-
-
-
