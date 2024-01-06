@@ -28,7 +28,7 @@ app.get("/",(req,res)=>{
     const response = {
         ok:true,
         data:{
-            msg:"Naive-Baker Backend here!😀"   
+            msg:"Tastfy Backend here!😀"   
         },
         err:{    
         }
